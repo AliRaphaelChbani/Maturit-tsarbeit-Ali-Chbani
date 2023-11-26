@@ -20,6 +20,7 @@ Im Gegensatz zum Spiel „Tic-Tac-Toe“ waren unentschiedene Spielenden beim �
 
 Ausblick in die Zukunft:
 Als ich im April mit dieser Arbeit begonnen habe, existierte die generative KI noch nicht. Mit der Einführung von ChatGPT und seinen Konkurrenten im Internet begann eine digitale Revolution. Solche künstlichen Intelligenzen können Geschichten und Lieder aufführen sowie anhand von Bildern visualisieren. Im Bereich der Informatik dienen sie zudem als umfangreiche Wissens- und Könnens Datenbank. Diese Revolution wird in Zukunft die Programmierung erleichtern und uns als Co-Piloten auf unseren Programmierabenteuern unterstützen. Heutzutage wäre eine derart leistungsfähige KI in der Lage, ähnliche Projekte zu kodieren und zu verbessern. Um den letzten Punkt zu belegen, habe ich nach Abschluss meiner praktischen Arbeit ChatGPT gefragt, wie ich sie in Zukunft verbessern könnte. Hier sind seine Antworten (Prompt: Bewerte diesen Code und gib mir   Verbesserungsmöglichkeiten):
+
 •	Funktionen für die UI-Elemente
 
 •	Vermeidung von globalen Variablen
