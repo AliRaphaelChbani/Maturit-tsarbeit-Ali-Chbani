@@ -11,7 +11,7 @@ Für diese Projekt habe ich 2 Python Module verwendet: Tkinter und Random. Beide
 from tkinter import *
 from tkinter import messagebox
 import random
-
+```
 ## Resultate
 
 
