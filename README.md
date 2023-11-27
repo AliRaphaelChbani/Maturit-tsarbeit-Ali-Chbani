@@ -4,6 +4,7 @@ Dieses Repository enthält alle finalen Programme meiner Maturitätsarbeit, daru
 
 ## Einstieg in die Arbeit
 Hier sind die wichtige Installationen, um mit einer Kopie dieses Codes arbeiten zu können.
+Um von dieser Arbeit zu profitieren, sollten Sie die ZIP-Datei aus diesem Repository herunterladen. Anschliessend extrahieren Sie alle Dokumente und importieren sie in die von Ihnen verwendete Software.
 ### Module
 Für diese Projekt habe ich 2 Python Module verwendet: Tkinter und Random. Beide sind in der Python Standardbibliothek integriert und sollten in allen Standard-Python-Distributionen enthalten sein.
 
